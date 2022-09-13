@@ -2,6 +2,10 @@
 
 Algorithm practice using JavaScript
 
+## Guides
+
+[Leetcode problems in Javascript](https://www.youtube.com/playlist?list=PLrClazTqVpJlyey7Szwe_XX9meD4wl2Ma) YouTube playlist by [Andy Gala](https://www.youtube.com/c/andygala888)
+
 ## Project Setup
 
 ### **Pre-commit**
